@@ -8,8 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "format": "npx prettier --write .",
-    "lint": "eslint . --ext .js",
-    "deploy": "bash ./bin/deploy.sh"
+    "lint": "eslint . --ext .js"
   },
   "browserslist": [
     "last 4 version"

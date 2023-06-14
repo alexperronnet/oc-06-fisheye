@@ -1,5 +1,9 @@
 # FishEye
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ca98286a-c64b-4496-903b-b0f29d7f773e/deploy-status)](https://app.netlify.com/sites/openclassrooms-06-fisheye/deploys)
+
+> **Disclaimer**: This repository houses a project undertaken as part of my "**JavaScript React Developer**" training program with [OpenClassrooms](https://openclassrooms.com/). Upon the conclusion of the program on **September 20th, 2023**, the project will no longer be updated or maintained.
+
 ![Preview](assets/preview.png)
 
 ## Overview
@@ -21,13 +25,13 @@ For this project I used the following technologies:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/alexperronnet/openclassrooms-p6-fisheye.git
+git clone https://github.com/alexperronnet/openclassrooms-06-fisheye.git
 ```
 
 ### Navigate to the project folder
 
 ```bash
-cd openclassrooms-p6-fisheye
+cd openclassrooms-06-fisheye
 ```
 
 ### Install dependencies
