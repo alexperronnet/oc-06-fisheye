@@ -1,9 +1,7 @@
 # FishEye
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ca98286a-c64b-4496-903b-b0f29d7f773e/deploy-status)](https://app.netlify.com/sites/openclassrooms-06-fisheye/deploys)
-
 > [!CAUTION]
-> This repository contains a project completed as part of my training at [OpenClassrooms](https://openclassrooms.com). Having successfully concluded the program, the project is now archived and is no longer maintained. Please note that the repository remains available for reference purposes only; some links or features may not work as expected.
+> This repository hosts a project completed as part of my [OpenClassrooms](https://openclassrooms.com) training program. Having successfully completed the program, the project has now been archived and will no longer be actively maintained. Please be aware that while the repository will remain accessible for reference, some links or features may no longer function as intended.
 
 ![Preview](assets/preview.png)
 
